@@ -41,3 +41,4 @@ nodemon <server file name>
 npm i --save-dev nodemon
 
 ```
+![Capture](https://user-images.githubusercontent.com/79571914/136653274-cb722b9c-2281-46e6-82ee-33a6a5163510.JPG)
